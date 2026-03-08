@@ -4,7 +4,7 @@ Creature Room Simulation (C) - This project is a command-line simulation written
 
 Features:
 - Dynamic world with multiple rooms connected in North, South, East, and West** directions.
-- Three creature types: PC (Player Character), Animals, NPCs(Non-players characters)
+- Three creature types: PC (Player Character), Animals, NPCs(Non-player characters)
 - Rooms have cleanliness states: Clean, Half-dirty, Dirty
 - Creatures react to room conditions and may move or leave the house if unhappy.
 - Respect the system that increases or decreases based on creature reactions.
