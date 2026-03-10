@@ -1,4 +1,4 @@
-System Programming - Class project
+System Programming(CSC 322) - Class project
 
 Creature Room Simulation (C) - This project is a command-line simulation written in C that models a house with multiple rooms and different types of creatures interacting with the environment. The player controls a PC (Player Character) and can perform actions that affect room cleanliness and creature behavior.
 
